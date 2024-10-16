@@ -1,0 +1,4 @@
+@EndUserText.label: 'User Master Data Service'
+define service ZC_UserData_Srv {
+  expose ZC_UserData as UserData;
+}
