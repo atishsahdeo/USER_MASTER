@@ -3,7 +3,7 @@
 {
 "FROM":
 [
-"ZUSER_DATA"
+"ZAS_USER_DATA"
 ],
 "ASSOCIATED":
 [],
